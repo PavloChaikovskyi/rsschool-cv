@@ -1,2 +1,3 @@
 # rsschool-cv
-My pleasure to introduce my CV
+Welcome to my CV
+ 
