@@ -9,9 +9,9 @@
 * **Address:** Poland, Cracow 
 * **Email:** [chaykovskiypavel@gmail.com](mailto:chaykovskiypavel@gmail.com "mail me")
 * **Phone:** [+48577187909](tel:+48577187909 "call me")
-* **Linkedin:** [PavloChaikovskyi](https://www.linkedin.com/in/pavlochaikovskyi/ "My linkedin")
-* **Codewars:**  [PavloChaikovskyi](https://www.codewars.com/users/PavloChaikovskyi "My Profile on CodeWars")
-* **GitHub:** [PavloChaikovskyi](https://github.com/PavloChaikovskyi "My GitHub")
+* **Linkedin:** [PavloChaikovskyi](https://www.linkedin.com/in/pavlochaikovskyi/ "My linkedin"){:target="_blank"}
+* **Codewars:**  [PavloChaikovskyi](https://www.codewars.com/users/PavloChaikovskyi "My Profile on CodeWars"){:target="_blank"}
+* **GitHub:** [PavloChaikovskyi](https://github.com/PavloChaikovskyi "My GitHub"){:target="_blank"}
 
 # About
 
