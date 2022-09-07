@@ -1,4 +1,4 @@
-## [rsschool-cv](/#)
+## [rsschool-cv](/rsschool-cv/cv)
 
 # Pavlo Chaikovskyi
 
