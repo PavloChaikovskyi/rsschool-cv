@@ -18,7 +18,7 @@
 I'm Front-End developer with 2 years commercial experience in creating custom web-sites on WordPress CMS,  
 using PHP, HTML, SCSS, JS, TWIG, Bootstrap, Gulp, Git and others tools. Currently I'm learning TypeScript and   
 React, because I want to create a web applications.  
-My last project during working in Kerris Group: [https://cylindersi.pl](https://cylindersi.pl "Warsaw car-sharing company")
+My last project during working in Kerris Group: [https://cylindersi.pl](https://cylindersi.pl "Warsaw car-sharing company"){:target="_blank"}
 
 # Stack Details
 
@@ -98,18 +98,18 @@ export default refreshInstaToken;
 # Commercial Experience
 
 Mar 2022 - Present  
-[Cognizant](https://www.cognizant.com/pl/en "home page") · Full-time  
+[Cognizant](https://www.cognizant.com/pl/en "home page"){:target="_blank"} · Full-time  
 Senior Process Executive  
 Cracow, Małopolskie, Poland  
 
-2021 [Kerris Group](https://kerris.pl/ "home page")  
+2021 [Kerris Group](https://kerris.pl/ "home page"){:target="_blank"}  
 Front-End Wordpress Developer  
 Fully Remote  
 * WordPress : Twig + Gutenberg Blocks;
 * Creating fully responsive websites
 * Creating custom solutions
 
-2020 [RedrockS – Agencja Kreatywna](https://redrocks.pl/ "home page")  
+2020 [RedrockS – Agencja Kreatywna](https://redrocks.pl/ "home page"){:target="_blank"}  
 Junior Front-End Wordpress Developer  
 Partly Remote  
 * creating custom templates on WordPress CMS;
