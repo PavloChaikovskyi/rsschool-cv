@@ -1,3 +1,3 @@
 # rsschool-cv
-Welcome to my CV
+CV Template
 https://PavloChaikovskyi.github.io/rsschool-cv/cv
