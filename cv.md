@@ -98,7 +98,7 @@ export default refreshInstaToken;
 # Commercial Experience
 
 Mar 2022 - Present  
-[Cognizant][https://www.cognizant.com/pl/en "home page"] · Full-time  
+[Cognizant](https://www.cognizant.com/pl/en "home page") · Full-time  
 Senior Process Executive  
 Cracow, Małopolskie, Poland  
 
